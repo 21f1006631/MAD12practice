@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Restful
+Flask-Cors
+Jinja2
+SQLAlchemy
+celery
+redis
